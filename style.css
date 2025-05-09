@@ -126,11 +126,14 @@ ul li span:hover {
   }
 
   button {
+    position: absolute;
     padding: 10px 20px;
     font-size: 14px;
+    right : 20px;
   }
 
   .todo-app {
+    position: relative;
     width: 350px;
     max-width: 100%;
     padding: 20px;
