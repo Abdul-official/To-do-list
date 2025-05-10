@@ -74,7 +74,7 @@ button {
 ul li {
   list-style: none;
   font-size: 17px;
-  padding: 12px 50px 12px 80px;
+  padding: 12px 100px;
   user-select: none;
   cursor: pointer;
   position: relative;
@@ -123,7 +123,7 @@ ul li span:hover {
   .container {
     width: 100%;
     padding: 10px 20px;
-    max-height: 900px;
+    max-height: 870px;
     min-height: 600px;
   }
 
