@@ -160,7 +160,7 @@ ul li span:hover {
 
   ul li {
     font-size: 16px;
-    padding-right: 100px;
+    padding-left: 100px;
   }
 
   ul li::before {
