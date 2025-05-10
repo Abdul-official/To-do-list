@@ -123,7 +123,7 @@ ul li span:hover {
   .container {
     width: 100%;
     padding: 10px 20px;
-    height: 850px;
+    max-height: 850px;
   }
 
   button {
